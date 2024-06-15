@@ -1,0 +1,131 @@
+ID:122
+Name: Xiaomi Redmi Note 10
+Category: Smartphone
+Price: 199.99
+Description: A budget smartphone with good performance.
+Rating: 4.5
+Processor: Qualcomm Snapdragon 678
+Screen Frequency: 60
+GPU: Adreno 612
+Screen Size: 6.43
+--------------------------
+ID: 3
+Name: Samsung Galaxy S21
+Category: Smartphone
+Price: 799.99
+Description: High-end smartphone with excellent camera.
+Rating: 4.7
+Processor: Exynos 2100
+Screen Frequency: 120
+GPU: Mali-G78 MP14
+Screen Size: 6.2
+--------------------------
+ID: 4
+Name: Dell XPS 13
+Category: Laptop
+Price: 1199.99
+Description: Premium laptop with a sleek design.
+Rating: 4.6
+Processor: Intel Core i7-1165G7
+Screen Frequency: 60
+GPU: Intel Iris Xe
+Screen Size: 13.4
+--------------------------
+ID: 5
+Name: OnePlus 9
+Category: Smartphone
+Price: 729.99
+Description: Fast and smooth smartphone experience.
+Rating: 4.4
+Processor: Qualcomm Snapdragon 888
+Screen Frequency: 120
+GPU: Adreno 660
+Screen Size: 6.55
+--------------------------
+ID: 6
+Name: Lenovo ThinkPad X1 Carbon
+Category: Laptop
+Price: 1299.99
+Description: Durable and high-performing business laptop.
+Rating: 4.5
+Processor: Intel Core i7-1185G7
+Screen Frequency: 60
+GPU: Intel Iris Xe
+Screen Size: 14
+--------------------------
+ID: 7
+Name: Google Pixel 5
+Category: Smartphone
+Price: 699.99
+Description: Excellent camera and pure Android experience.
+Rating: 4.6
+Processor: Qualcomm Snapdragon 765G
+Screen Frequency: 90
+GPU: Adreno 620
+Screen Size: 6
+--------------------------
+ID: 8
+Name: HP Spectre x360
+Category: Laptop
+Price: 1399.99
+Description: Versatile 2-in-1 laptop with great performance.
+Rating: 4.7
+Processor: Intel Core i7-1165G7
+Screen Frequency: 60
+GPU: Intel Iris Xe
+Screen Size: 13.3
+--------------------------
+ID:10
+Name:Iphone
+Category: Smartphone
+Price:1000,00
+Description: High-end smartphone with a stunning 4K display.
+Rating:10,00
+Processor: Qualcomm Snapdragon 888
+Screen Frequency: 120
+GPU: Adreno 660
+Screen Size: 6.5
+--------------------------
+ID: 10
+Name:Iphone
+Category: Laptop
+Price:1000,00
+Description: Powerful gaming laptop with excellent performance.
+Rating:10,00
+Processor: AMD Ryzen 9 5900HS
+Screen Frequency: 120
+GPU: NVIDIA GeForce RTX 3060
+Screen Size: 14
+--------------------------ID: 11
+Name:Iphone
+Category: Phone
+Price:1000,00
+Description: great phone
+Rating:10,00
+Processor: gg
+Screen Frequency: 120
+GPU: dd
+Screen Size: 44,00
+--------------------------
+ID: 2
+Name: 2
+Category: 22
+Price: 2,00
+Description: 2
+Rating: 2,00
+Processor: 2
+Screen Frequency: 2
+GPU: 2
+Screen Size: 2,00
+--------------------------
+ID: 2
+Name: 2
+Category: 2
+Price: 2,00
+Description: 2
+Rating: 2,00
+Processor: 2
+Screen Frequency: 2
+GPU: 2
+Screen Size: 2,00
+--------------------------
